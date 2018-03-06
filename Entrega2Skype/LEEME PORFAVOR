@@ -1,0 +1,7 @@
+La entrega dos esta distribuida asi:
+
+Skype1v1: Son dos clientes que se comunican entre ellos para hablar dos personas.
+
+Servidor Estable para 2 personas: Servidor que se monto antes de tener el de tres personas y esta estable
+
+3WayFinal: Modelo Cliente-Servidor con REQUEST-REPLY codificado a PEDAL para un skype que soporta hasta 3 personas. Se pueden agregar mas personas a pedal. No alcanzo el tiempo para realizar la automatización. Pero ya con el servidor de 3 personas a pedal, sin delay y sin problemas de audio se puede escalar a una version mejorada.
